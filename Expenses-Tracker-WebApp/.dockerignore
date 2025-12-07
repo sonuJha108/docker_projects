@@ -1,0 +1,5 @@
+mysql-data/
+*.log
+target/
+*.tmp
+
